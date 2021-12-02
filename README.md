@@ -2,7 +2,7 @@
 
 ## Welcome to Leonard's blog, where we discuss everything essential.
 
-Dec 2021 - The Master Plan
+### Dec 2021 - The Master Plan
 
 You might be wondering why I'm creating this blog. I'm wondering that myself, especially considering I have a . But a key part of life is to better oneself and have audacious goals that push you to become a better version of yourself.
 
