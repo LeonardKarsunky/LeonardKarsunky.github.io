@@ -4,7 +4,7 @@
 
 ### Dec 2021 - The Master Plan
 
-You might be wondering why I'm creating this blog. I'm wondering that myself, especially considering I have a . But a key part of life is to better oneself and have audacious goals that push you to become a better version of yourself.
+You might be wondering why I'm creating this blog. I'm wondering that myself, especially considering I have a bunch of deadlines coming up for the end of the semester - oh well. But a key part of life is to better oneself and have audacious goals that push you to become a better version of yourself.
 
 Now you might ask yourself: where do you want to be in 5 years? What do you want your life to be like? The truth is, people have the power to change their lives more than they believe. We always overestimate what we can achieve in the short-term and _massively_ underestimate what we can achieve in the long-term.
 
