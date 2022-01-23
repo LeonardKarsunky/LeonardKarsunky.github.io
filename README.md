@@ -2,6 +2,12 @@
 
 ## Welcome to Leonard's blog, where we discuss everything essential.
 
+### Jan 2022 - First updates
+
+It's been a month since I first started this blog and it's so interesting in life how your goals change and morph into different things so quickly. I am trying to orient my life as much as possible towards being a software engineer and will start my MS thesis next month at the Institute for Machine Learning at ETH Zurich. This will hopefully teach me valuable skills in machine learning and data science as well as software best practices.
+
+I think the next steps are to learn all the necessary skills to become a full-stack software engineer, including Python with Django/Flask, data management systems such as PostgreSQL, perhaps some Javascript, familiarity with servers and of course deep knowledge of APIs! This especially focuses on the backend so that I can build e.g. real-world web applications. I already have a great side project idea that is perfect to learn all of this (TBA) and I will document my path along the way to see my progress. Excited for the future!
+
 ### Dec 2021 - The Master Plan
 
 You might be wondering why I'm creating this blog. I'm wondering that myself, especially considering I have a bunch of deadlines coming up for the end of the semester - oh well. But a key part of life is to better oneself and have audacious goals that push you to become a better version of yourself.
