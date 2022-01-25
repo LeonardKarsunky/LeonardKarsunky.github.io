@@ -2,6 +2,9 @@
 
 ## Welcome to Leonard's blog, where we discuss everything essential.
 
+### Jan 2022 - On the importance of writing
+I believe it is imperative to write at least once in a while, as this is the easiest way to structure one's thoughts and draft a better plan for the future. Writing is essentially the same thing as thinking.
+
 ### Jan 2022 - First baby steps
 
 It's been a month since I first started this blog and it's so interesting in life how your goals change and morph into different things so quickly. I am trying to orient my life as much as possible towards being a software engineer and will start my MS thesis next month at the Institute for Machine Learning at ETH Zurich. This will hopefully teach me valuable skills in machine learning and data science as well as software best practices.
