@@ -3,11 +3,13 @@
 ## Welcome to Leonard's blog, where we discuss everything essential.
 
 ### Jan 2022 - On the importance of writing
-I believe it is imperative to write at least once in a while, as this is the easiest way to structure one's thoughts and draft a better plan for the future. Writing is essentially the same thing as thinking.
+I believe it is imperative to write at least once in a while, as this is the easiest way to structure one's thoughts and draft a better plan for the future. Writing is essentially the same thing as thinking, and perhaps what enables proper thinking to begin with.
+
+Many software engineers are realizing that hard software skills are not what is necessary to rise the corporate ranks and lead large teams. One also needs proficient writing and communication skills which enable teams to focus around a common goal and reach true milestones on a regular basis.
 
 ### Jan 2022 - First baby steps
 
-It's been a month since I first started this blog and it's so interesting in life how your goals change and morph into different things so quickly. I am trying to orient my life as much as possible towards being a software engineer and will start my MS thesis next month at the Institute for Machine Learning at ETH Zurich. This will hopefully teach me valuable skills in machine learning and data science as well as software best practices.
+It's been a month since I first started this blog and it's so interesting in life how your goals change and morph into different things so quickly. I am trying to orient my life as much as possible towards being a software engineer and will start my MS thesis next month at the Institute for Machine Learning at ETH Zurich. This will hopefully teach me invaluable skills in machine learning / data science as well as software best practices.
 
 I think the next steps are to learn all the necessary skills to become a full-stack software engineer, including Python with Django/Flask, data management systems such as PostgreSQL, perhaps some Javascript, MongoDB, Docker, Ruby/Rails, familiarity with servers and of course deep knowledge of APIs! This especially focuses on the backend so that I can build e.g. real-world web applications. I already have a great side project idea that is perfect to learn all of this (TBA) and I will document my path along the way to see my progress. Excited for the future!
 
