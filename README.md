@@ -2,6 +2,13 @@
 
 ## Welcome to Leonard's blog, where we discuss everything essential.
 
+### Mar 2022 - Proving to the world who you want to be
+It is difficult to change career paths in life. Once people see you as "that guy" (i.e. a specialist in one field), it's very difficult to deviate from that image and switch careers. I noticed this myself when attempting to switch from life sciences engineering (confusing nomenclature to describe a mix of molecular biology and computational science) to more pure computer science with a focus on machine learning. In fact, I still am, and the pursuit is rather difficult. But this journey also presents me with a deep sense of meaning, and that the trajectory of the course that I am taking, while still facing much headwind, is a future I truly see myself in, regardless of outside noise.
+
+Even great artists such as Kanye West struggled with this phenomenon. As a reputable music producer in the early 2000s, when he was creating beats for labels such as Jay Z's Roc-A-Fella Music, it was notoriously difficult for him to make others view him as a rapper. It would take years of dedication and sacrifice to get there, and constantly correcting people for considering him a producer or producer-rapper when all he wanted to be was a rapper. No comparing to anyone else but the MCs. He had to so firmly believe in his vision that he distorted his own reality and that of others around him (and even the world?) in the process.
+
+Nietzsche put it best when he said: "Every great man is an actor of his own ideal."
+
 ### Jan 2022 - On the importance of writing
 I believe it is imperative to write at least once in a while, as this is the easiest way to structure one's thoughts and draft a better plan for the future. Writing is essentially the same thing as thinking, and perhaps what enables proper thinking to begin with.
 
